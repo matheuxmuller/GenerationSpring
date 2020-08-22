@@ -1,3 +1,3 @@
 # APIs em Spring Boot com CRUD
 
-Projetos das aulas de back-end na Generation Brasil, utilizando Java 8 no framework Spring Boot, para a criação de APIs com CRUD (Create, Read, Update e Delete), Hibernate JPA, build em Apache Maven e protocolo básico de segurança no armazenamento e encriptação dos dados de acesso dos usuários
+Repositório criado para as aulas de desenvolvimento de APIs dos projetos de CRUD (Create, Read, Update e Delete), JPA Hibernate e Apache Maven, durante o bootcamp da Generation Brasil.
